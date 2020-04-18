@@ -1,1 +1,1 @@
-{"code":0,"payload":{"client_version":"1.0.0","latest_version":"1.0.0.0","update_exists":true,"update":{"download_url":"https:\/\/mega.nz\/file\/t7QB1ahR#ArNlLwAnVG63tqgQFbQBQVgtvijG_MmhnCSIaPdJd-0"},"download_counts":{"total":1,"current_version":1}}}
+{"code":0,"payload":{"client_version":"1.0.0","latest_version":"1.0.0.0","update_exists":true,"update":{"download_url":"https:\/\/github.com\/SoapboxRaceWorld\/GameLauncher_NFSW\/releases\/download\/2.1.0.4\/Release.zip"},"download_counts":{"total":1,"current_version":1}}}
